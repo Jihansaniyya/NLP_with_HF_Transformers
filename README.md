@@ -1,18 +1,20 @@
-<div align="center">
+<h1 align="center">Natural Language Processing with Hugging Face Transformers</h1>
 
-# Natural Language Processing with Hugging Face Transformers
+<p align="center">
+  <img src="https://media.tenor.com/8Qx8V9D5l0QAAAAC/anime-girl.gif" width="220" alt="anime gif">
+</p>
 
-<img src="https://media.tenor.com/Jm7uD9rCkS8AAAAC/anime-anime-girl.gif" width="220" alt="anime gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Natural+Language+Processing;Hugging+Face+Transformers;Generative+AI+Guided+Project;Cognitive+Class+by+IBM" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Natural+Language+Processing;Hugging+Face+Transformers;Generative+AI+Guided+Project;Cognitive+Class+by+IBM" alt="Typing SVG" />
+<p align="center">Generative AI Guided Project on Cognitive Class by IBM</p>
 
-Generative AI Guided Project on Cognitive Class by IBM
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
 ## Name : Jihan Saniyya Pudaliba
 
