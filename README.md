@@ -2,6 +2,8 @@
 
 # Natural Language Processing with Hugging Face Transformers
 
+<img src="https://media.tenor.com/Jm7uD9rCkS8AAAAC/anime-anime-girl.gif" width="220" alt="anime gif" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Natural+Language+Processing;Hugging+Face+Transformers;Generative+AI+Guided+Project;Cognitive+Class+by+IBM" alt="Typing SVG" />
 
 Generative AI Guided Project on Cognitive Class by IBM
